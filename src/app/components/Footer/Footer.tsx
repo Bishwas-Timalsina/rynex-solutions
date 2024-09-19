@@ -197,11 +197,7 @@ const Footer = ({ footer_data }: IFooter) => {
       <div className="border-t-[1px] border-t-[gray]">
         <div className="layout px-6 py-6 text-black flex lg:flex-row flex-col  gap-4 items-center lg:justify-between justify-center">
           <div className="lg:text-start text-center">
-            Copyright ©{" "}
-            <a href="#" className="text-secondary">
-              rynexsolution.com.
-            </a>{" "}
-            All Rights Reserved.
+            Copyright © All Rights Reserved.
           </div>
           <div>
             Designed by{" "}
