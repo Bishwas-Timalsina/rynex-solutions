@@ -207,10 +207,10 @@ const Footer = ({ footer_data }: IFooter) => {
             Designed by{" "}
             <a
               className="text-secondary"
-              href="https://nextaussietech.com/"
+              href="https://bishwastimalsina.com.np/"
               target="__blank"
             >
-              Next Aussie Tech.
+              Bishwas Timalsina.
             </a>{" "}
           </div>
         </div>
